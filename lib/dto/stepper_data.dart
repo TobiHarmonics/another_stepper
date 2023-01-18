@@ -5,7 +5,7 @@ class StepperData {
   final StepperText? title;
 
   /// subtitle for the stepper
-  final StepperText? subtitle;
+  final Widget? subtitle;
 
   final Widget? iconWidget;
 
